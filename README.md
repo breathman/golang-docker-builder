@@ -1,0 +1,1 @@
+Golang docker builder template
